@@ -24,7 +24,6 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/seen \<pseudo\>** : Permet de voir la dernière connexion d’un joueur.
 - **/stats** : Permet de voir vos statistiques.
 - **/time \<pseudo\>** : Permet de voir le temps de jeu et la première connexion d'un joueur.
-- **/rtp** : Ouvre le menu de téléportation aléatoire.
 
 ---
 
@@ -34,7 +33,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/money &lt;pseudo&gt;** : Permet de voir l'argent d'un joueur.
 - **/salaire** : Ouvre la liste des salaires.
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
-- **/shop &lt;vendre/acheter&gt; &lt;item&gt;** : Chercher un shop par item.
+- **/shop** : Ouvrir le shop admin
 - **/ah** : Ouvrir l'hôtel des ventes.
 - **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
 - **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
@@ -76,48 +75,21 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 
 ---
 
-## Commandes Claim 🏠
-- **/claim** : Ouvre le menu claim.
-- **/claim create** : Finaliser la création d'un claim avec bâton.
-- **/claim info** : Affiche les informations sur la région.
-- **/claim border** : Affiche la bordure de la région.
-- **/claim flag** : Ouvre le menu des flags.
-- **/claim addadmin &lt;joueur&gt;** : Ajouter un joueur en tant qu'admin.
-- **/claim addmember &lt;joueur&gt;** : Ajouter un joueur en tant que membre.
-- **/claim removeadmin &lt;joueur&gt;** : Retirer un joueur en tant qu'admin.
-- **/claim removemember &lt;joueur&gt;** : Retirer un joueur de votre région.
-- **/claim msg &lt;message/off&gt;** : Modifier le message de bienvenue.
-- **/claim blocklimit** : Affiche votre limite de blocs.
-- **/claim kick &lt;joueur&gt;** : Kick un joueur de votre région.
-- **/claim rename &lt;nom&gt;** : Changer le nom de votre région.
-- **/claim list** : Liste de toutes vos régions.
-- **/claim chat &lt;message&gt;** : Parler à un joueur de votre région.
-- **/claim near** : Affiche les régions proches de vous.
-
----
-
-## Commandes Guildes (Grade Panda requis) 🐼
-- **/g create** : Créer une guilde.
-- **/g delete** : Supprime votre guilde.
-- **/g prefix &lt;nom&gt;** : Change le préfix de guilde.
-- **/g sethome** : Définit le home de la guilde.
-- **/g delhome** : Supprime le home de guilde.
-- **/g home** : Téléporte au home de la guilde.
-- **/g invite &lt;joueur&gt;** : Invite un joueur dans votre guilde.
-- **/g accept &lt;joueur&gt;** : Accepte une invitation de guilde.
-- **/g leave** : Quitte votre guilde actuelle.
-- **/g info** : Affiche les informations de guilde.
-- **/g boot &lt;joueur&gt;** : Kick un joueur de la guilde.
-- **/g list** : Affiche la liste des guildes.
-- **/g members** : Ouvre le menu des membres de la guilde.
-- **/g promote** : Promouvoir un membre de la guilde.
-- **/g status** : Change la guilde en public ou privé.
-- **/g gc** : Active le chat de guilde.
-- **/g ac** : Active le chat d'alliance de guilde.
-- **/g vault** : Ouvre le coffre de guilde.
-- **/g buff** : Ouvre le menu buff.
-- **/g bank balance** : Affiche l'argent dans la banque de guilde.
-- **/g bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque de guilde.
-- **/g bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque de guilde.
-- **/g upgrade** : Améliore ta guilde.
+## Commandes d'île 🏝️
+- **/ob** : Vous téléporte à votre île.
+- **/ob upgrade** : Ouvre le menu d'améliorations de l'île.
+- **/ob bank** : Ouvre la liste des commandes de banque de l'île.
+- **/ob team** : Ouvre la liste des commandes de team de l'île.
+- **/ob phases** : Ouvre le menu des phases de l'île.
+- **/ob info** : Ouvre les informations sur votre île.
+- **/ob sethome** : Modifie le point de spawn de votre île.
+- **/ob level** : Calcule le niveau de votre île.
+- **/ob top** : Affiche le classement des meilleures îles.
+- **/ob settings** : Ouvre le menu des flags de l'île.
+- **/ob value** : Montre les blocs qui influencent le niveau de votre île.
+- **/ob ban \<joueur\>** : Banni un joueur de votre île.
+- **/ob unban \<joueur\>** : Débanni un joueur de votre île.
+- **/ob expel \<joueur\>** : Expulse un joueur de votre île.
+- **/ob banlist** : Voir la liste des joueurs bannis de votre île.
+- **/ob setname \<nom\>** : Change le nom de votre île.
 
