@@ -51,6 +51,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/sell all**               | ❌      | ❌ | ❌ | ✅ | ✅               
 | **/repair**                 | ❌      | ❌ | ✅ | ✅ + /repairall | ✅ + /repairall |
 | **/glow**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **/glow+**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/four all**               | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |

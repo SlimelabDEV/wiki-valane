@@ -21,7 +21,7 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 
 | **Enchantements**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
 |--------------------|------------|------------|-----------|--------------|----------------|
-| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Perles      |
+| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Gems      |
 | **Récompenses aléatoire**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
 
 ---
