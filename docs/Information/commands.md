@@ -12,7 +12,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/regles** : Ouvre le lien vers le règlement.
 - **/menu** : Ouvre le menu principal du serveur.
 - **/boutique** : Ouvre le menu boutique du serveur.
-- **/buy** : Ouvre le menu achat de points.
+- **/buy** : Ouvre le menu achat de gems.
 - **/skill** : Ouvre le menu compétences et salaires.
 - **/skill top** : Ouvre le menu des classements des compétences.
 - **/liens** : Affiche les liens vers nos sites.
@@ -34,6 +34,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/salaire** : Ouvre la liste des salaires.
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
 - **/shop** : Ouvrir le shop admin
+- **/mobcoin** : Ouvre le menu des mobcoins.
 - **/ah** : Ouvrir l'hôtel des ventes.
 - **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
 - **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
@@ -51,6 +52,8 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/delwarp** : Permet de supprimer votre warp.
 - **/pvp** : Vous téléporte vers l'arène PvP.
 - **/ender** : Vous téléporte vers le monde End.
+- **/casino**: Vous téléporte au casino.
+- **/crates**: Vous téléporte aux caisses.
 - **/tpa &lt;pseudo&gt;** : Téléporte vers un joueur avec son accord.
 - **/tpahere &lt;pseudo&gt;** : Téléporte un joueur à vous avec son accord.
 - **/tpyes** : Permet d'accepter une demande de téléportation.
@@ -77,7 +80,6 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 
 ## Commandes d'île 🏝️
 - **/ob** : Vous téléporte à votre île.
-- **/ob upgrade** : Ouvre le menu d'améliorations de l'île.
 - **/ob bank** : Ouvre la liste des commandes de banque de l'île.
 - **/ob team** : Ouvre la liste des commandes de team de l'île.
 - **/ob phases** : Ouvre le menu des phases de l'île.

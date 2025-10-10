@@ -42,9 +42,9 @@ Pour **acheter un item**, il vous suffit de **cliquer dessus** 🖱️ et de val
 * 🗃️ Le coffre affiche vos objets en vente.
 * 📦 Le coffre de l'end affiche vos objets achetés.
 * 🔄 Les flèches permettent de changer de page.
-* ⭐ L'étoile du nether affiche les commandes et informations.
-* 🪣 Le seau affiche vos objets en vente expirés.
-* 📚 Le livre trie les objets de l'hôtel des ventes par catégories (blocs, outils, spawners, etc.).
+* 📕 Le livre affiche les commandes et informations.
+* 🪣 Le seau de lave affiche vos objets en vente expirés.
+* 📚 L'émeraude trie les objets de l'hôtel des ventes par catégories (blocs, outils, spawners, etc.).
 
 ---
 

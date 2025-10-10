@@ -23,8 +23,10 @@ Voici ce que vous devez savoir avant de vous lancer dans la bataille contre l'En
 Prêt à affronter l'Ender Dragon ? Suivez ces étapes pour l'invoquer :
 
 - Rassemblez **4 Cristaux de l'End**.
+- **Avoir 10 niveaux d'archer**.
 - Donnez ces cristaux au **NPC Enderdragon**.
 - L'Ender Dragon apparaîtra, et la bataille commencera.
+
 
 ---
 
