@@ -94,3 +94,5 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/ob expel \<joueur\>** : Expulse un joueur de votre île.
 - **/ob banlist** : Voir la liste des joueurs bannis de votre île.
 - **/ob setname \<nom\>** : Change le nom de votre île.
+- **/ob chat \<message\>** : Envoie un message dans le chat d'île
+- **/ob chat** : Permet d'activer le chat d'île.
