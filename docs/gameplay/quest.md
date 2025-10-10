@@ -22,8 +22,14 @@ __Voici les types de quêtes disponibles :__
 - 🧭 **La boussole** : _Voyageur_ → Trouver des lieux cachés dans le spawn.
 - ⏳ **La montre** : _Temps_ → Basé sur le temps passé connecté.
 - 🛠️ **L'entonnoir** : _Divers_ → Quêtes variées.
-- 🛬 **Les elytras** : _Explorateur_ → Trouver des biomes spécifiques.
+- 🌿 **La feuille d'arbre** : _Labyrinthe_ → Quêtes de labyrinthe.
 - ⛏️ **La pioche** : _Mineur_ → Quêtes de minage.
+- 🪓 **La hache** : _Bucheron_ → Quêtes forestières.
+- 🎣 **La canne à pêche** : _Pêcheur_ → Quêtes de pêche.
+- 👢 **La botte de diamant** : _Jump_ → Quêtes de saut.
+- 🏹 **L'arc** : _Mini-Jeux_ → Quêtes de mini-jeux.
+- 🎽 **Le plastron** : _Armurier_ → Quêtes d'armurier.
+- 📕 **Le livre** : _Enchanteur_ → Quêtes d'enchantement.
 
 ---
 
