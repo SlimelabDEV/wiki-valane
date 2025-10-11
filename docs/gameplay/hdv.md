@@ -73,15 +73,13 @@ Pour retrouver l'article, faites **/ah** et cliquez sur le coffre 📦. Vous ver
 
 * **/ah** – Ouvrir l'hôtel des ventes
 * **/ah sell &lt;prix&gt;** – Vendre des items
-* **/ah &lt;expired/collect&gt;** – Gérer vos items annulés ou expirés
-* **/ah return** – Récupérer tous vos items annulés ou expirés
-* **/ah sold** – Afficher les items récemment vendus
-* **/ah cancel** – Annuler toutes vos ventes
-* **/ah selling** – Afficher vos items en vente
 * **/ah search &lt;joueur&gt;** – Voir les ventes d'un joueur
+* **/ah history - Voir l'historique de l'Hotel de Vente
+
 
 ---
 
 :::important
 ⚠️ Plusieurs règles concernant l'hôtel des ventes et les arnaques figurent sur le règlement du serveur. Pour éviter tout abus et sanction, veuillez consulter le [règlement du serveur](/docs/Information/rules).
 :::
+
