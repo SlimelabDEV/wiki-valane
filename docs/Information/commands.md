@@ -34,10 +34,20 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/salaire** : Ouvre la liste des salaires.
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
 - **/shop** : Ouvrir le shop admin
-- **/mobcoin** : Ouvre le menu des mobcoins.
 - **/ah** : Ouvrir l'hôtel des ventes.
 - **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
 - **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
+
+---
+
+## Commandes Mobcoins 🪙
+- **/mobcoin** : Affiche le menu des mobcoins.
+- **/mobcoin help** : Affiche l'aide des mobcoins.
+- **/mobcoin pay \<pseudo\> \<montant\>** : Envoyer des mobcoins à un joueur.
+- **/mobcoin balance \[pseudo\]** : Voir votre solde de mobcoins.
+- **/mobcoin top** : Voir le top des joueurs avec le plus de mobcoins.
+- **/mobcoin withdraw \<montant\>** : Retirer des mobcoins de votre solde.
+- **/mobcoin notification** : Affiche les notifications des mobcoins.
 
 ---
 
@@ -58,8 +68,6 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/tpahere &lt;pseudo&gt;** : Téléporte un joueur à vous avec son accord.
 - **/tpyes** : Permet d'accepter une demande de téléportation.
 - **/tpno** : Permet de refuser une demande de téléportation.
-- **/creatif** : Vous téléporte vers le serveur créatif.
-- **/jeux** : Vous téléporte vers le serveur jeux.
 - **/hub** : Retour au hub.
 
 ---
@@ -94,5 +102,5 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/ob expel \<joueur\>** : Expulse un joueur de votre île.
 - **/ob banlist** : Voir la liste des joueurs bannis de votre île.
 - **/ob setname \<nom\>** : Change le nom de votre île.
-- **/ob chat \<message\>** : Envoie un message dans le chat d'île
-- **/ob chat** : Permet d'activer le chat d'île.
+- **/ob chat \[message\]** : Envoie un message à tous les joueurs sur votre île.
+- **/ob tc \[message\]** : Envoie un message à tous les joueurs de votre team.
