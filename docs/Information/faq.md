@@ -50,7 +50,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🏡 Nombre de homes max
-- **Nombre de homes** : 5 par défaut, possibilité d'en obtenir plus avec un grade boutique.
+- **Nombre de homes** : 1 par défaut, possibilité d'en obtenir plus avec un grade boutique.
 
 ---
 
