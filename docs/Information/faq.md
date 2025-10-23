@@ -56,7 +56,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🚫 Double comptes
 :::tip ⚠️
-- **Autorisation** : Non, sauf pour les membres d'une même famille jouant sur la même IP. Preuve via ticket.
+- **Autorisation** : Oui dans la limite de 3 comptes par joueur s'ils ne sont pas connectés simultanéments. Il est préférable de demander a un staff par ticket. Dans le cas ou plusieurs utilisateurs sont sur la même IP, une vérification par le staff est nécessaire en ticket.
   :::
 
 ---
