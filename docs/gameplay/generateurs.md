@@ -14,7 +14,7 @@ Grâce à ce système, vous pouvez produire différents types de blocs selon vot
 - Ces générateurs influencent **uniquement les blocs créés par le flux eau/lave**.  
 - Ils **n’affectent pas le mode OneBlock** ni les blocs posés manuellement.  
 - Pour changer de générateur, utilisez la commande **/gen**.  
-- Seul **le chef d’île** peut modifier le type de générateur.  
+- Pour modifier le générateur, le **chef d'île** doit être **connecté**.  
 - Les nouveaux générateurs se **débloqueront automatiquement** avec vos **prestiges**.
 
 ---
@@ -104,7 +104,7 @@ selon le **type de générateur actif**, le bloc produit pourra être de la **pi
 ## 🧱 Générateur Nether V2 *(Prestige 5)*
 
 - **Ressources générées :**
-  - 55.8% Netherrack  
+  - 56% Netherrack  
   - 3% Minerai de quartz du Nether  
   - 6% Roche noire dorée  
   - 6% Basalte  
@@ -112,7 +112,7 @@ selon le **type de générateur actif**, le bloc produit pourra être de la **pi
   - 6% Roche noire  
   - 5% Bloc d’os  
   - 2% Minerai d’or du Nether  
-  - 1.2% Débris antiques  
+  - 1% Débris antiques  
 
 > 🔓 Débloqué avec le **Prestige 5**  
 > Produit de la roche du Nether avancée et des ressources plus rares.
