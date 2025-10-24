@@ -35,7 +35,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🏭 Spawners
 :::tip 💡
-- **Casser un spawner** : Nécessite aucun grade boutique, et pas besoin d'une pioche spéciale.
+- **Casser un spawner** : Ne nécessite aucun grade boutique, ni pioche spéciale.
   :::
 
 ---
@@ -46,7 +46,9 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🔍 Commande `/seen`
-- **Voir l'inactivité d'un joueur** : Utilisez `/seen <pseudo>`.
+- **Voir l'activité d'un joueur** : Utilisez `/seen <pseudo>`.
+    - Si le joueur est déconnecté, vous pourrez voir depuis combien de temps.
+    - Si le joueur est connecté, vous verrez également depuis combien de temps.
 
 ---
 
@@ -79,7 +81,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 💤 AFK
-- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité.
+- **Inactivité** : Mode AFK activé après 15 minutes d'inactivité.
 
 ---
 
