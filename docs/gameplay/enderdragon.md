@@ -45,8 +45,7 @@ L'affrontement avec l'Ender Dragon peut être difficile. Voici quelques conseils
 En triomphant de l'Ender Dragon, vous gagnez :
 
 - **Clef de l'End :** Utilisez cette clé pour accéder à des récompenses spéciales, comme un œuf de dragon personnalisé.
-- **Argent :** 2.000 à 10.000 $
-- **Expérience :** 2.000 XP Vanilla 500 XP Valane.
+- **Expérience :** 12.000 XP Vanilla 500 XP Valane.
 - **Mobcoins :** 10.000 Mobcoins.
 ---
 
@@ -66,3 +65,4 @@ Découvrez qui est le meilleur chasseur d'Ender Dragon grâce au classement des 
 :::tip
 💡 En suivant ces conseils et en vous préparant correctement, vous serez prêt à défier l'Ender Dragon et à récolter les récompenses et la gloire qui vous attendent. Bonne chance, aventurier !
 :::
+
