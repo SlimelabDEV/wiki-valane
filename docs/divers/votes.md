@@ -10,7 +10,7 @@ Tout en nous soutenant, vous obtenez des récompenses qui vous seront utiles lor
 
 ---
 
-## 📝 Créer un compte pour voter (Optionnel)
+## 📝 Vous devez créer un compte pour voter 
 
 ![inscription étape 1](/img/votes/vote1.png)  
 Pour créer un compte, rien de plus simple !  
@@ -23,9 +23,6 @@ Remplissez correctement l'encadré avec des informations fiables comme sur le sc
 Vérifiez bien de mettre le pseudo que vous possédez en jeu !  
 :::
 
-:::tip
-Pas besoin de compte pour voter et obtenir des récompenses ! 🚀  
-:::
 
 ---
 
@@ -42,15 +39,11 @@ Une fois le compte créé, connectez-vous en cliquant sur l'onglet **Connexion**
 
 Voter est simple ! Suivez les étapes ci-dessous :
 
-1. Si vous n'avez pas de compte, entrez simplement votre pseudo Minecraft et cliquez sur **Continuer**.  
+1. Entrez simplement votre pseudo Minecraft et cliquez sur **Continuer**.  
    ![étape suivante](/img/votes/vote5.png)
 
 2. Choisissez l'une des options proposées, vous serez automatiquement redirigé vers un site de vote. Suivez les instructions et une fois le vote terminé, vous recevrez automatiquement vos récompenses en jeu.  
    ![choix de site](/img/votes/vote6.png)
-
-:::tip 
-Si vous avez déjà un compte, vous pouvez directement accéder à cette étape
-:::
 
 ---
 
@@ -73,3 +66,4 @@ Vous avez deux solutions :
 Vous pouvez voter et obtenir vos points de vote même si vous n'êtes pas connecté en jeu ! Les points seront stockés sur votre compte et vous pourrez les utiliser à tout moment.
 
 [^1]: This is the footnote text.
+
