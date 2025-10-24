@@ -13,7 +13,7 @@ Bienvenue dans le guide des Pub ! Ce guide vous expliquera comment utiliser les 
 ## 💻 Commandes Pub
 
 ### 🔑 **Commande Principale :**
-La commande **`/pub`** est utilisée pour toutes les interactions relatives au mariage. Voici une liste des sous-commandes disponibles et leurs utilisations :
+La commande **`/pub`** est utilisée pour toutes les interactions relatives à la publicité. Voici une liste des sous-commandes disponibles et leurs utilisations :
 
 - ### **`/pub help`**
     - **Description :** Affiche ce panneau d'aide.
