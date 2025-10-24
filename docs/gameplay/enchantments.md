@@ -322,6 +322,12 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 | Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + clic droit                          |
+| Plantation (gousse de planturne) I                        | Houe            | Planter les gousses de planturne en 3x3                                                     | 3s       | 100%           | Avoir des graines + clic droit                           |
+| Plantation (gousse de planturne) II                       | Houe            | Planter les gousses de planturne en 3x3                                                     | 2s       | 100%           | Avoir des graines + clic droit                           |
+| Plantation (gousse de planturne) III                      | Houe            | Planter les gousses de planturne en 3x3                                                     | X        | 100%           | Avoir des graines + clic droit                           |
+| Plantation (torchefleur) I                        | Houe            | Planter les torchefleur en 3x3                                                     | 3s       | 100%           | Avoir des graines + clic droit                           |
+| Plantation (torchefleur) II                       | Houe            | Planter les torchefleur en 3x3                                                     | 2s       | 100%           | Avoir des graines + clic droit                           |
+| Plantation (torchefleur) III                      | Houe            | Planter les torchefleur en 3x3                                                     | X        | 100%           | Avoir des graines + clic droit                           |
 | Jambes en gelée I                   | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 40%            | Équiper les bottes                                       |
 | Jambes en gelée II                  | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 80%            | Équiper les bottes                                       |
 | Jambes en gelée III                 | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 100%           | Équiper les bottes                                       |
@@ -464,7 +470,15 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 | Hibou de nuit I                     | Épée            | Augmente les dégâts de 25% contre les mobs la nuit                             | X        | 40%            | Frapper un mob la nuit                                   |
 | Hibou de nuit II                    | Épée            | Augmente les dégâts de 35% contre les mobs la nuit                             | X        | 60%            | Frapper un mob la nuit                                   |
 | Hibou de nuit III                   | Épée            | Augmente les dégâts de 45% contre les mobs la nuit                             | X        | 80%            | Frapper un mob la nuit                                   |
-
+| Tranché I           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 10% | Casser un bloc |
+| Tranché II           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 20% | Casser un bloc |
+| Tranché III           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 30% | Casser un bloc |
+| Tranché IV           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 40% | Casser un bloc |
+| Tranché V           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 50% | Casser un bloc |
+| Tranché VI           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 60% | Casser un bloc |
+| Tranché VII           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 70% | Casser un bloc |
+| Tranché VIII           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 80% | Casser un bloc |
+| Tranché IX           | Pioche, Pelle           | Casse les blocs dans un rayon de 3 blocs. | X | 90% | Casser un bloc |
 ---
 
 ## Les enchantements Légendaires
@@ -569,8 +583,30 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 | Lancement I             | Épée            | Projette en l'air de 8 unités | 15s | 20% | Clic droit |
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
+| Renforcé (Armure) I     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 5% | Prendre des dégâts |
+| Renforcé (Armure) II     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 10% | Prendre des dégâts |
+| Renforcé (Armure) III     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 15% | Prendre des dégâts |
+| Renforcé (Armure) IV     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 20% | Prendre des dégâts |
+| Renforcé (Armure) V     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 25% | Prendre des dégâts |
+| Renforcé (Armure) VI     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 30% | Prendre des dégâts |
+| Renforcé (Armure) VII     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 35% | Prendre des dégâts |
+| Renforcé (Armure) VIII     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 40% | Prendre des dégâts |
+| Renforcé (Armure) IX     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 45% | Prendre des dégâts |
+| Renforcé (Armure) X     | Armure          | Chance de réparer de 1 de durabilité la pièce d'armure enchantée | X | 50% | Prendre des dégâts |
+| Tueur de Raid I     | Épée          | Augmente les dégats de 80 a 120 points pour les vindicateurs; ravageurs; vex; pillards; évocateurs | X | 100% | Frapper un mob (affilage ne l'active pas) |
+---
+
+## Les enchantements D'évènement
+
+| Enchantement Légendaire | Adapté pour les | Description | CoolDown | Taux de chance | Condition d'activation |
+| ----------------------- | --------------- | ----------- | -------- | -------------- | ---------------------- |
+| Cupidon I            | Épée            | Fait apparaître des particules coeur autour du joueur | 15s | 100% | Prendre l'épée en main |
+| Tranché I           | Houe           | Casse les blocs dans un rayon de 3 blocs | X | 100% | Casser un bloc |
+| Petite Aide I           | Jambières            | Invoque des chauves souris et des effets pour vous aider à fuir | X | 100% | Avoir moins de 3 coeurs |
+| Tueur de Wardens I          | Épée            | Augmente les dégats contre les wardens de 280 a 400 dégats | X | 100% | Frapper un warden |
 ---
 
 :::important
 Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
 :::
+
