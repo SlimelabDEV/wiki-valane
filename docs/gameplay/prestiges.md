@@ -18,7 +18,7 @@ Chaque prestige demande de remplir plusieurs conditions :
 
 - **Un certain niveau total de compétences**  
 - **Un nombre minimum de quêtes terminées**  
-- **Un coût en dollars ($) croissant*  
+- **Un coût en dollars ($) croissant**  
 
 En contrepartie, vous obtenez **des bonus permanents** sur vos ventes et l’accès à de **nouveaux générateurs** ou **bonus de vente**.
 
