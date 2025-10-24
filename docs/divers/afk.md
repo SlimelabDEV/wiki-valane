@@ -40,7 +40,7 @@ La boutique AFK contient donc des **récompenses très précieuses** — à ne p
 Vous pouvez entrer dans la zone de 2 façons :
 
 ### 🔁 Téléportation automatique
-- Après **30 minutes d'inactivité**, vous êtes automatiquement téléporté(e) dans la zone AFK.
+- Après **15 minutes d'inactivité**, vous êtes automatiquement téléporté(e) dans la zone AFK.
 
 :::info
 Les **comptes premium** ne sont jamais téléportés automatiquement en zone AFK, ce qui leur permet de farmer sans interruption.
