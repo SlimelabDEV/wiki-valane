@@ -28,7 +28,7 @@ Pour utiliser une compétence, il suffit de faire un clic droit avec un outil ou
 ---
 
 :::tip Conseil
-Les compétences ne sont pas débloquées par défaut, mais se débloquent en jouant un petit peu.
+Les compétences ne sont pas débloquées par défaut, mais se débloquent au niveau 7 du skill concerné.
 :::
 ---
 
@@ -60,7 +60,7 @@ Dans cet exemple, vous êtes bientôt niveau 75, ce qui vous fera gagner un bonu
 
 ## Explication du Menu "Salaire"
 
-En cliquant sur l’icône en bas du `/skill`, vous accédez à un menu dédié au salaire. Il se divise en deux grandes parties :
+En cliquant sur l’icône en bas du `/skill`, vous accédez à un menu dédié aux salaires. Il se divise en deux grandes parties :
 
 ---
 
@@ -86,3 +86,4 @@ Des défis/missions à accomplir pour augmenter votre salaire. Chaque mission vo
 :::important
 Comme beaucoup de joueurs, il se peut que vous soyez un peu perdu au début, mais ne vous inquiétez pas, on s'y retrouve vite. Si besoin, le staff pourra vous guider sur le [**Discord**](http://discord.Valane.fr).
 :::
+
