@@ -11,7 +11,7 @@ Découvre comment créer, gérer et faire évoluer ton île sur le serveur.
 
 ## 🏝️ Démarrer ton aventure
 
-Quand tu arrives sur le serveur, tu spawnes dans le **lobby principal** 🏰.  
+Quand tu arrives sur le serveur, tu spawne dans le **lobby principal** 🏰.
 Tu reçois alors un **mini-stuff de base** ainsi qu’un **livre d’aide** listant les commandes utiles pour débuter.
 
 Pour créer ton île, utilise simplement la commande suivante :
@@ -115,4 +115,5 @@ Une section utile pour éviter les questions répétitives.
 |-----------|-----------|
 | “Que faire si j’ai reset mon île ?” | Utilise la commande `/ob team invite <pseudo>` pour inviter un joueur. Il devra lui faire la commande `/ob team accept` pour accepter. |
 | “Comment inviter un ami ?” | Il a peut-être déjà une île, il doit la supprimer. |
+
 | “Comment améliorer la valeur de mon île ?” | Tu peux améliorer la valeur de ton île en posant des blocs de valeur. Tu peux voir la valeur des blocs en utilisant la commande `/ob value`. |
