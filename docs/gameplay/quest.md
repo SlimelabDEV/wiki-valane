@@ -6,7 +6,10 @@ sidebar_position: 5
 
 Les **quêtes** offrent une expérience de jeu immersive sur tous les serveurs ! Elles vous permettent non seulement de gagner de l'argent 💰, mais aussi de l'**expérience de niveau** 🧠, le tout dans un cadre semi-RP.
 
+Ce guide vous permettra d'explorer et de profiter pleinement des quêtes sur le serveur. Que l'aventure commence ! 🎮
+
 ---
+
 
 ## 🔍 Les types de quête
 
@@ -73,5 +76,3 @@ Si votre inventaire est plein, vous ne recevrez pas le coffre quêtes. Il sera *
 :::
 
 ---
-
-Ce guide vous permettra d'explorer et de profiter pleinement des quêtes sur le serveur. Que l'aventure commence ! 🎮
