@@ -21,7 +21,7 @@ Pour créer un shop, c'est très simple : il suffit de faire un **sneak (s'accro
 
 ## ✏️ Comment modifier son shop ?
 
-En faisant un **clic droit** sur le panneau de la boutique**, vous pouvez accéder aux modifications de votre shop.
+En faisant un **clic droit** sur le panneau de la **boutique**, vous pouvez accéder aux modifications de votre shop.
 
 ![Panneau de contrôle du shop](/img/shop/shop2.png)
 
@@ -46,3 +46,4 @@ Le plugin est également compatible avec les joueurs Bedrock. Vous pouvez suivre
 :::tip
 💡 Les commandes peuvent également être utilisées par les joueurs Java en cas de bug ou de dysfonctionnement.
 :::
+
