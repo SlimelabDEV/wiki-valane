@@ -11,11 +11,13 @@ Les spawners sur Valane sont entièrement personnalisables: ils peuvent être am
 ## 🏗 Empilage & Performances
 
 Tu peux empiler jusqu’à **32 spawners sur un seul bloc**.  
-Cela améliore énormément les performances des fermes, tout en réduisant le lag.
+Cela améliore énormément les performances des fermes, tout en réduisant le lag. 
 
 > 🧮 **Limite d’île :** 250 spawners  
 > 📦 **Stack inclus :** 1 pile de 32 spawners = 1 seul spawner compté  
-> 🏴‍☠️ Théoriquement : jusqu’à **8000 spawners stackés** sur une île
+> 🏴‍☠️ Théoriquement : jusqu’à **8000 spawners stackés** sur une île  
+> 🛠️ Limite de **16** spawners par **chunk**
+
 
 ---
 
