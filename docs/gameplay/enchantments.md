@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # 📚 Enchantements
 
 Les enchantements sont des **améliorations spéciales** que vous pouvez appliquer sur vos armes, armures et outils.
@@ -9,55 +5,12 @@ Ils apportent des effets puissants : dégâts bonus, protections avancées, capa
 
 Contrairement aux enchantements classiques de Minecraft, ceux-ci sont **plus variés**, ont des **raretés**, et peuvent être **améliorés ou protégés**.
 
-Pour obtenir ces enchantements, vous devez passer par les **Donjons**.
+Pour obtenir ces enchantements, vous devez passer par les **Donjons**. Voir la page **Donjons**
 
 :::important
 Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
 :::
-
 ---
-
-## 🎯 À quoi sert une Clé Donjon ?
-
-Elle vous donne accès à une partie où vous pourrez :
-
-* affronter des mobs,
-* gagner des **Couronnes 👑**,
-* obtenir des **poussières**,
-* avancer dans vos missions,
-* récolter des fragments pour créer d’autres clés.
-
-:::tip
-C’est **l’élément central** du système Donjon.
-:::
-
----
-
-### 🧩 Comment obtenir une Clé Donjon ?
-En terminant des **Missions Donjon**, vous obtenez des *Fragments de clé*.
-À la *Fabrication de Clés*, vous pouvez assembler ces fragments → **clé donjon**.
-
----
-
-## 👑 Les Couronnes — La monnaie du système enchantements
-
-Pendant un donjon :
-
-1. Vous entrez avec une **Clé Donjon**.
-2. Vous tuez des mobs.
-3. Vous terminez la partie → vous gagnez des **Couronnes 👑**.
-
-Les couronnes servent dans la boutique à acheter :
-
-* Livres d’enchantement non identifiés
-* Poussières / Parchemins
-* Traqueurs (Mob / Bloc / Poisson)
-* Augmenteurs / protections d’enchantement
-
-➡️ Accès : **/donjon** ou **/boutique**
-
----
-
 ## ⭐ Taux de réussite des enchantements
 
 Chaque livre d’enchantement possède un **taux de réussite** :
@@ -78,51 +31,6 @@ Grâce aux **Poussières Magiques**.
 2. Tuez des mobs → chance d’obtenir des **poussières secrètes**.
 3. Transformez-les en **poussières magiques**.
 4. **Glissez-déposez** les poussières sur votre livre pour augmenter son taux.
-
----
-
-## 🧙 Les différents services du /donjon
-
-### 🔧 Boutique Donjon
-
-Échangez vos Couronnes contre :
-
-* Livres d’enchantement (5 raretés)
-* Parchemin Noir
-* Augmenteur de Slots
-* Rune Protectrice
-* Traqueurs (Mob / Bloc / Poisson)
-
----
-
-### ⚙️ Marchand d’enchantements
-
-Permet de **désenchanter** un livre pour obtenir des **poussières**.
-Utile si vous obtenez un enchantement qui ne vous intéresse pas.
-
----
-
-### 🧪 Alchimiste
-
-Permet de **fusionner deux livres identiques** pour en obtenir un meilleur.
-
----
-
-### 🔨 Fabrication de Clés Donjon
-
-Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
-
----
-
-## 🔄 Résumé simple
-
-* **Clé Donjon** = entrée du donjon
-* Donjon = mobs + Couronnes + Poussières
-* Couronnes = achetez vos enchantements
-* Poussières = augmentez le taux de réussite
-* Alchimiste = fusion des livres
-* Marchand = recyclage de livres
-* Fabrication = création de clés supplémentaires
 
 ---
 ## Objets de la boutique enchantements
@@ -747,6 +655,7 @@ clique droit                        |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
 
 ---
+
 
 
 
