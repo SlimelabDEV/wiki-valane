@@ -48,7 +48,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/sell hand**              | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/sell all**               | ❌      | ❌ | ❌ | ✅ | ✅               
+| **/sell all**               | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/repair**                 | ❌      | ❌ | ✅ | ✅ + /repairall | ✅ + /repairall |
 | **/glow**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/glow+**                  | ❌      | ❌ | ❌ | ❌ | ✅              |

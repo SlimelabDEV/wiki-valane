@@ -36,7 +36,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🏭 Spawners
 :::tip 💡
 - **Casser un spawner** : Ne nécessite aucun grade boutique, ni pioche spéciale.
-  :::
+:::
 
 ---
 
@@ -57,10 +57,10 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## 🚫 Double comptes
+## 🚫 Doubles comptes
 :::tip ⚠️
-- **Autorisation** : Oui dans la limite de 3 comptes par joueur s'ils ne sont pas connectés simultanéments. Il est préférable de demander a un staff par ticket. Dans le cas ou plusieurs utilisateurs sont sur la même IP, une vérification par le staff est nécessaire en ticket.
-  :::
+- **Autorisation** : Oui dans la limite de 3 comptes par joueur s'ils ne sont pas connectés simultanément. Il est préférable de demander à un staff via ticket. Dans le cas où plusieurs utilisateurs sont sur la même IP, une vérification par le staff est nécessaire en ticket.
+:::
 
 ---
 
@@ -104,5 +104,5 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🎨 Pack de texture
 :::tip 🖼️
-- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
-  :::
+- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
+:::
