@@ -9,21 +9,27 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 ---
 
 ## Commandes Générales 🛠️
-- **/regles** : Ouvre le lien vers le règlement.
+- **/regles** : Ouvre le lien vers le règlement du serveur.
+- **/wiki** : Ouvre le lien vers le wiki du serveur.
 - **/menu** : Ouvre le menu principal du serveur.
 - **/boutique** : Ouvre le menu boutique du serveur.
 - **/buy** : Ouvre le menu achat de gems.
-- **/skill** : Ouvre le menu compétences et salaires.
+- **/buy \<pseudo\>** : Ouvre le menu d'achat de gems pour les offrir au joueur souhaité.
+- **/skill ou /sk** : Ouvre le menu compétences et salaires.
 - **/skill top** : Ouvre le menu des classements des compétences.
 - **/liens** : Affiche les liens vers nos sites.
 - **/niveau** : Permet de voir vos statistiques.
 - **/ec** : Ouvre votre enderchest.
-- **/quete** : Ouvre le menu des quêtes.
+- **/quete ou /q** : Ouvre le menu des quêtes.
 - **/profil** : Ouvre le menu profil et options.
+- **/option ou /options** : Ouvre le menu des options directement.
 - **/kit** : Ouvre le menu des kits.
 - **/seen \<pseudo\>** : Permet de voir la dernière connexion d’un joueur.
 - **/stats** : Permet de voir vos statistiques.
 - **/time \<pseudo\>** : Permet de voir le temps de jeu et la première connexion d'un joueur.
+- **/bossbar** : Affiche ou retire les barres d'informations en haut de l'écran.
+- **/sb** : Affiche ou retire le scoreboard à droite de l'écran.
+- **/m \<pseudo\>** ou **/msg \<pseudo\>** : Envoie un message privé à un autre joueur.
 
 ---
 
@@ -37,6 +43,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/ah** : Ouvrir l'hôtel des ventes.
 - **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
 - **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
+- **/paytoggle** : Bloque ou autorise les paiements provenant des autres joueurs.
 
 ---
 
@@ -54,13 +61,13 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 ## Commandes Téléportation 🌍
 - **/back** : Vous téléporte à votre dernière position.
 - **/dback** : Vous téléporte à votre dernière position de mort.
-- **/home &lt;nom&gt;** : Permet de voir vos homes et vous téléporter.
+- **/h ou /home &lt;nom&gt;** : Permet de voir vos homes et vous téléporter.
 - **/sethome &lt;nom&gt;** : Permet de créer un home.
 - **/delhome &lt;nom&gt;** : Permet de supprimer un home.
 - **/warp** : Ouvre le menu des warps.
 - **/setwarp** : Permet de créer votre warp.
 - **/delwarp** : Permet de supprimer votre warp.
-- **/pvp** : Vous téléporte vers l'arène PvP.
+- **/pvp** : Ouvre le menu des arènes PvP. (Nécessite 5h de jeu pour pouvoir s'y rendre)
 - **/ender** : Vous téléporte vers le monde End.
 - **/casino**: Vous téléporte au casino.
 - **/crates**: Vous téléporte aux caisses.
@@ -69,6 +76,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/tpyes** : Permet d'accepter une demande de téléportation.
 - **/tpno** : Permet de refuser une demande de téléportation.
 - **/hub** : Retour au hub.
+- **/spawn** : Vous téléporte vers le spawn.
 
 ---
 
@@ -83,6 +91,15 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **#pos** : Affiche ta position.
 - **#bal** : Affiche ton argent.
 - **#skill** : Affiche tes compétences.
+
+---
+
+## Commandes de debug
+- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels et plus encore.
+
+:::tip 💡
+La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
+:::
 
 ---
 

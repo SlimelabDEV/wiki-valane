@@ -32,7 +32,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 :::
 ---
 
-### 🚀 Voici toutes les commandes disponibles pour chaque grade: 
+### 🚀 Voici toutes les commandes et avantages disponibles pour chaque grade:
 
 | Commande/Avantage          | Joueur | Mage | Magicien | Sorcier | Sorcier+         |
 |----------------------------|---------|---|---|---|----------------|
@@ -43,7 +43,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/hat**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **/speedfly**               | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/speedfly ou /sf**        | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/ext**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
@@ -53,7 +53,7 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/glow**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/glow+**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/four all**               | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/fourall**                | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/emoji**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/anvil**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
@@ -61,6 +61,9 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/smithingtable**          | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/grindstone**             | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **/loom**                   | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **Accès aux Gadgets /cos**  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **Accès aux Statuts /cos**  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/taille**                 | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 1       | 5 | 10 | 15 | 15             |
 | **Coffre de market**         | 10      | 20 | 20 | 20 | 20             |
