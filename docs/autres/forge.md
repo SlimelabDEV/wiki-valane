@@ -136,7 +136,7 @@ Avant de rejoindre un serveur avec Forge, vérifiez toujours les règles et la c
 Si vous recherchez un serveur Minecraft francophone sans installation compliquée, vous pouvez rejoindre **Valane**.
 Le serveur propose une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités accessibles directement depuis Minecraft.
 
-**Adresse du serveur :** `play.valane.fr`
+**Adresse du serveur :** `go.valane.fr`
 
 ## ✅ Conclusion
 

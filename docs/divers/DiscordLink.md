@@ -2,7 +2,7 @@
 
 ## 🎮 Étape 1 : Générer un code
 
-1. Connecte-toi au serveur **play.valane.fr**.
+1. Connecte-toi au serveur **go.valane.fr**.
 2. Exécute la commande :
 
    ```text
