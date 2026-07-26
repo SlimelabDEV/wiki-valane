@@ -1,14 +1,14 @@
 ---
-title: Ferme à monstres Skyblock sans spawner
+title: 👾 Ferme à monstres Skyblock sans spawner
 description: Construisez une ferme à monstres hostile sur Skyblock avec plateforme sombre, canaux d'eau, chute et collecte sécurisée.
 sidebar_position: 4
 ---
 
-# Ferme à monstres Skyblock sans spawner
+# 👾 Ferme à monstres Skyblock sans spawner
 
 Sur une île Skyblock, une ferme à monstres fournit des os, de la ficelle, de la poudre à canon, des flèches et de la chair putréfiée. L'absence de grottes alentour peut offrir un bon rendement si la plateforme est placée à la bonne distance.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Beaucoup de blocs
 - Des dalles et des trappes
@@ -19,13 +19,13 @@ Sur une île Skyblock, une ferme à monstres fournit des os, de la ficelle, de l
 
 Évitez les blocs sensibles aux explosions dans la chambre où apparaissent les creepers.
 
-## Choisir l'emplacement
+## 🧭 Choisir l'emplacement
 
 Construisez la ferme loin de la zone centrale éclairée, tout en restant dans les chunks chargés lorsque vous attendez. Les plateformes d'apparition doivent se trouver à plus de 24 blocs du joueur.
 
 Préparez une passerelle sécurisée et un point d'attente protégé. Dans le vide, une simple poussée de squelette peut être fatale.
 
-## Construire la chambre
+## 🛠️ Construire la chambre
 
 1. Créez une tour ou un puits menant à la collecte.
 2. Ajoutez une plateforme fermée et totalement sombre.
@@ -38,13 +38,13 @@ Préparez une passerelle sécurisée et un point d'attente protégé. Dans le vi
 
 Commencez par un seul étage. Vous pourrez en ajouter lorsque la position d'attente et la collecte seront validées.
 
-## Choisir entre objets et expérience
+## 🧭 Choisir entre objets et expérience
 
 Une grande chute ou des feux de camp éliminent les monstres automatiquement. Pour récupérer de l'expérience, laissez-les survivre et frappez-les depuis une ouverture protégée.
 
 Les araignées peuvent bloquer les canaux. Des tapis répartis sur les plateformes empêchent leur apparition si vous souhaitez privilégier les autres créatures.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Rien n'apparaît
 
@@ -58,11 +58,13 @@ Réduisez les zones sèches et contrôlez la portée des courants d'eau.
 
 Ajoutez des coffres et un tri pour les objets les plus fréquents. Une ferme Skyblock peut fonctionner longtemps pendant que vous développez l'île.
 
-## À retenir
+## ✅ À retenir
 
 Le vide réduit les apparitions concurrentes, mais rend le chantier dangereux. Sécurisez la passerelle et le point AFK avant de fermer la chambre.
 
 Découvrez ensuite la [ferme à poulets automatique](/docs/tutoriels-minecraft/ferme-poulets-automatique) ou tous les [tutoriels Skyblock](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [la production de poudre d’os](/docs/tutoriels-minecraft/ferme-poudre-os-skyblock).
 
 ## 🌍 Rejoindre Valane
 

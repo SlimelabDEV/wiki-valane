@@ -1,14 +1,14 @@
 ---
-title: Ferme à canne à sucre compacte pour Skyblock
+title: 🌱 Ferme à canne à sucre compacte pour Skyblock
 description: Automatisez la canne à sucre sur une petite île Skyblock avec observateur, piston et système de collecte compact.
 sidebar_position: 6
 ---
 
-# Ferme à canne à sucre compacte pour Skyblock
+# 🌱 Ferme à canne à sucre compacte pour Skyblock
 
 La canne à sucre fournit le papier nécessaire aux livres, aux cartes et aux fusées. Sur une île Skyblock, un module vertical ou une courte rangée permet d'automatiser la ressource sans occuper une grande plateforme.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Une source d'eau
 - Un bloc de plantation
@@ -19,7 +19,7 @@ La canne à sucre fournit le papier nécessaire aux livres, aux cartes et aux fu
 - Un entonnoir et un coffre
 - Des blocs ou du verre
 
-## Construire un module
+## 🛠️ Construire un module
 
 1. Enfermez une source d'eau à côté du bloc de plantation.
 2. Plantez la canne à sucre.
@@ -31,19 +31,19 @@ La canne à sucre fournit le papier nécessaire aux livres, aux cartes et aux fu
 
 La base ne doit jamais être cassée. Elle permet à la canne de recommencer immédiatement son cycle.
 
-## Optimiser l'espace
+## ⚙️ Optimiser l'espace
 
 Alignez quelques modules contre un mur de l'île. Une seule rigole de collecte peut recevoir les objets de toute la rangée.
 
 Pour gagner en hauteur, vous pouvez construire un second étage, mais gardez un passage permettant d'atteindre chaque observateur et piston.
 
-## Éviter les pertes dans le vide
+## ⚠️ Éviter les pertes dans le vide
 
 Entourez complètement la ferme avant sa première activation. Les pistons projettent parfois les objets sur le côté ou au-dessus de la collecte.
 
 Un wagonnet à entonnoir sous les blocs de plantation récupère mieux les objets, mais demande davantage de fer. Commencez avec une simple rigole si vos ressources sont limitées.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Le piston ne reçoit aucun signal
 
@@ -57,11 +57,13 @@ Vérifiez qu'elle se trouve directement à côté de l'eau et sur un bloc compat
 
 Déplacez l'entonnoir, ajoutez un courant ou installez plus tard un wagonnet sous la rangée.
 
-## À retenir
+## ✅ À retenir
 
 Un petit module produit lentement mais sans intervention. Sur Skyblock, la priorité est de ne perdre aucun objet avant de multiplier les rangées.
 
 Découvrez aussi la [ferme à cactus compacte](/docs/tutoriels-minecraft/ferme-cactus-skyblock) ou les autres [tutoriels Skyblock](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le guide pour agrandir l’île sans tomber](/docs/tutoriels-minecraft/agrandir-ile-sans-tomber).
 
 ## 🌍 Rejoindre Valane
 

@@ -1,4 +1,5 @@
 ---
+description: "Comprenez le système de popularité de Valane, les recommandations entre joueurs, les délais et les récompenses de chaque échelon."
 sidebar_position: 2
 ---
 

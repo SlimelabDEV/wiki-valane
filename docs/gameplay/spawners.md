@@ -1,4 +1,5 @@
 ---
+description: "Apprenez à empiler et améliorer les spawners de Valane, gérer leurs limites et optimiser vos fermes sans surcharger votre île."
 sidebar_position: 16
 ---
 

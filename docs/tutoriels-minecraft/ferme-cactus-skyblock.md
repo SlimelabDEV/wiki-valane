@@ -1,16 +1,16 @@
 ---
-title: Ferme à cactus compacte pour Skyblock
+title: 🌵 Ferme à cactus compacte pour Skyblock
 description: Construisez une ferme à cactus Skyblock compacte, sans redstone, avec récolte automatique et protection contre le vide.
 sidebar_position: 7
 ---
 
-# Ferme à cactus compacte pour Skyblock
+# 🌵 Ferme à cactus compacte pour Skyblock
 
 Une ferme à cactus ne demande ni piston ni observateur. Lorsqu'une nouvelle partie pousse à côté d'une barrière ou d'un muret, elle se casse et tombe vers la collecte.
 
 Le cactus détruit les objets qui le touchent. Sur Skyblock, le défi consiste donc à éloigner rapidement la récolte des plantes et du vide.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Du sable
 - Un ou plusieurs cactus
@@ -19,7 +19,7 @@ Le cactus détruit les objets qui le touchent. Sur Skyblock, le défi consiste d
 - Un seau d'eau
 - Un entonnoir et un coffre
 
-## Construire le premier étage
+## 🛠️ Construire le premier étage
 
 1. Créez une petite plateforme entièrement fermée.
 2. Placez les blocs de sable avec un espace autour.
@@ -31,19 +31,19 @@ Le cactus détruit les objets qui le touchent. Sur Skyblock, le défi consiste d
 
 La barrière ne doit pas toucher la base du cactus, sinon celui-ci ne peut pas rester planté.
 
-## Agrandir verticalement
+## 📈 Agrandir verticalement
 
 Vous pouvez superposer des étages au-dessus de la même collecte. Décalez les plantes afin que les objets tombent dans l'eau plutôt que sur un cactus inférieur.
 
 Ajoutez un étage à la fois et observez les pertes. Une tour haute mais mal alignée peut détruire une grande partie de sa propre production.
 
-## Utiliser le cactus
+## ♻️ Utiliser le cactus
 
 Le cactus peut être cuit en teinture verte et produire de l'expérience dans les fours. Il peut aussi alimenter un composteur si vous avez surtout besoin de poudre d'os.
 
 Prévoyez un coffre tampon avant les fours : la ferme continue de produire même lorsque le combustible manque.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Le cactus se casse dès qu'il est planté
 
@@ -57,11 +57,13 @@ Ils touchent probablement une plante ou tombent hors de la plateforme. Déplacez
 
 Réduisez sa largeur ou divisez-la en plusieurs rigoles reliées à la même collecte.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à cactus convient très bien au Skyblock, car elle utilise peu de redstone. Une collecte fermée et bien alignée est plus importante que la hauteur de la tour.
 
 Poursuivez avec la [ferme à arbres Skyblock](/docs/tutoriels-minecraft/ferme-arbres-skyblock) ou retrouvez tous les [tutoriels Skyblock](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le stockage compact de l’île](/docs/tutoriels-minecraft/stockage-compact-skyblock).
 
 ## 🌍 Rejoindre Valane
 

@@ -1,4 +1,5 @@
 ---
+description: "Découvrez la zone AFK de Valane, le gain automatique de tickets, les récompenses disponibles et les règles à connaître avant de vous absenter."
 sidebar_position: 6
 ---
 

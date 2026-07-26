@@ -1,4 +1,5 @@
 ---
+description: "Comprenez le système de prestiges de Valane, ses conditions, bonus de vente, récompenses et déblocages de progression."
 sidebar_position: 13
 ---
 

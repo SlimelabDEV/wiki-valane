@@ -1,16 +1,16 @@
 ---
-title: Générateur de cobblestone Skyblock sans perdre les blocs
+title: ⛏️ Générateur de cobblestone Skyblock sans perdre les blocs
 description: Construisez un générateur de cobblestone sûr avec eau et lave, puis améliorez la récupération des blocs sur une île Skyblock.
 sidebar_position: 3
 ---
 
-# Générateur de cobblestone Skyblock sans perdre les blocs
+# ⛏️ Générateur de cobblestone Skyblock sans perdre les blocs
 
 Le générateur de cobblestone est souvent la première construction d'une partie Skyblock. Lorsque de la lave en mouvement rencontre de l'eau, un bloc de cobblestone se forme et peut être miné à répétition.
 
 Une mauvaise disposition peut transformer la lave en obsidienne ou laisser les blocs tomber dans le vide. Construisez donc le générateur dans une cuve fermée.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Un seau d'eau
 - Une source de lave
@@ -19,7 +19,7 @@ Une mauvaise disposition peut transformer la lave en obsidienne ou laisser les b
 - Une dalle ou un escalier pour protéger le joueur
 - Éventuellement un entonnoir et un coffre
 
-## Construire le modèle simple
+## 🛠️ Construire le modèle simple
 
 1. Creusez ou construisez une rigole fermée.
 2. Placez l'eau à une extrémité.
@@ -31,13 +31,13 @@ Une mauvaise disposition peut transformer la lave en obsidienne ou laisser les b
 
 Ne cassez jamais les blocs qui retiennent les liquides pendant que le générateur est actif.
 
-## Réduire les blocs brûlés
+## 🛡️ Réduire les blocs brûlés
 
 La cobblestone minée peut tomber dans la lave. Placez-vous de façon à attirer les objets vers vous ou installez une collecte sous le point de génération.
 
 Un entonnoir protégé, placé sous ou devant le bloc selon le modèle, récupère une partie des objets. Gardez toutefois l'accès nécessaire à la pioche.
 
-## Améliorer le confort
+## ⚙️ Améliorer le confort
 
 Ajoutez :
 
@@ -47,7 +47,7 @@ Ajoutez :
 - Plusieurs points de génération pour miner à plusieurs
 - Un interrupteur si le serveur propose un générateur personnalisé
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### La lave devient de l'obsidienne
 
@@ -61,11 +61,13 @@ L'ordre et la hauteur des liquides changent le bloc généré. Reproduisez un mo
 
 Fermez le dessous et l'arrière du générateur. Ne laissez aucun côté ouvert autour du bloc miné.
 
-## À retenir
+## ✅ À retenir
 
 Un bon générateur protège d'abord les deux sources, puis le joueur et les objets. La vitesse de minage vient seulement après la sécurité.
 
 Utilisez les premiers blocs pour construire une [ferme à arbres Skyblock](/docs/tutoriels-minecraft/ferme-arbres-skyblock) ou revenez aux [tutoriels Skyblock](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le générateur de pierre Skyblock](/docs/tutoriels-minecraft/generateur-pierre-skyblock).
 
 ## 🌍 Rejoindre Valane
 

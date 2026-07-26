@@ -1,16 +1,16 @@
 ---
-title: Bien débuter sur un Skyblock Minecraft
+title: 🏝️ Bien débuter sur un Skyblock Minecraft
 description: "Apprenez les premières étapes d'une partie Skyblock : sécuriser l'île, conserver les ressources rares et organiser les premières fermes."
 sidebar_position: 2
 ---
 
-# Bien débuter sur un Skyblock Minecraft
+# 🏝️ Bien débuter sur un Skyblock Minecraft
 
 Le Skyblock commence sur une petite île suspendue dans le vide avec très peu de ressources. La progression repose moins sur l'exploration que sur la transformation de chaque objet en source renouvelable.
 
 Les coffres et systèmes varient selon les cartes ou les serveurs, mais les mêmes priorités permettent d'éviter la plupart des blocages.
 
-## Sécuriser l'île
+## 🛡️ Sécuriser l'île
 
 Avant de casser un bloc important :
 
@@ -22,7 +22,7 @@ Avant de casser un bloc important :
 
 Ne transportez pas tous vos seaux, pousses ou minerais en même temps. Une chute ne doit jamais pouvoir supprimer toute votre progression.
 
-## Créer les premières ressources renouvelables
+## 🛠️ Créer les premières ressources renouvelables
 
 Commencez par un [générateur de cobblestone](/docs/tutoriels-minecraft/generateur-cobblestone-skyblock), puis agrandissez une plateforme dédiée aux arbres.
 
@@ -30,7 +30,7 @@ Conservez toujours au moins une pousse de chaque type. Le bois permet de fabriqu
 
 Si vous possédez de l'herbe, évitez de la transformer entièrement en terre. Laissez un chemin de blocs pour que l'herbe puisse se propager jusqu'aux futures zones d'animaux.
 
-## Organiser l'île
+## 🗂️ Organiser l'île
 
 Séparez les fonctions :
 
@@ -43,23 +43,25 @@ Séparez les fonctions :
 
 Des passerelles de trois blocs de large avec des barrières réduisent fortement les chutes.
 
-## Éviter les erreurs irréversibles
+## ⚠️ Éviter les erreurs irréversibles
 
 Ne transformez pas la seule lave en obsidienne avant d'avoir sécurisé le générateur. Ne placez pas non plus les sources d'eau au bord sans bloc de récupération en dessous.
 
 Avant d'utiliser une ressource rare dans une recette, vérifiez si elle sert à rendre cette même ressource renouvelable.
 
-## Que construire ensuite ?
+## 🧭 Que construire ensuite ?
 
 Une petite ferme à cultures fournit la nourriture. Une [ferme à monstres Skyblock](/docs/tutoriels-minecraft/ferme-monstres-skyblock) apporte ensuite os, ficelle, poudre à canon et chair putréfiée.
 
 Ajoutez les machines une par une et mesurez leur stockage. Le manque d'espace se corrige plus facilement avec un plan clair qu'avec des plateformes superposées au hasard.
 
-## À retenir
+## ✅ À retenir
 
 En Skyblock, la progression dépend surtout de la conservation des ressources uniques. Sécurisez, stockez, rendez renouvelable, puis seulement agrandissez.
 
 Retrouvez tous les [tutoriels Minecraft Skyblock](/docs/tutoriels-minecraft) ou les systèmes particuliers du [serveur Valane](/docs/bienvenue).
+
+Pour aller plus loin, consultez aussi [l’ordre conseillé des fermes Skyblock](/docs/tutoriels-minecraft/ordre-fermes-skyblock).
 
 ## 🌍 Rejoindre Valane
 

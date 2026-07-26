@@ -1,4 +1,5 @@
 ---
+description: "Découvrez l'événement Piñata de Valane, son horaire, la commande d'accès et les récompenses distribuées aux participants."
 sidebar_position: 5
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: Ferme à poulets cuits automatique Minecraft
+title: 🐔 Ferme à poulets cuits automatique Minecraft
 description: Construisez une ferme à poulets automatique compacte avec œufs, distributeur, lave et collecte de poulet cuit.
 sidebar_position: 5
 ---
 
-# Ferme à poulets cuits automatique Minecraft
+# 🐔 Ferme à poulets cuits automatique Minecraft
 
 Une ferme à poulets cuits transforme les œufs pondus par des poules adultes en nouveaux poussins. Lorsqu'ils grandissent, une lame de lave les élimine et cuit directement la viande.
 
 Ce modèle est compact, mais il contient des entités dans un petit espace. N'ajoutez pas trop de poules et respectez les limites du serveur.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Quelques poules
 - Un distributeur
@@ -22,7 +22,7 @@ Ce modèle est compact, mais il contient des entités dans un petit espace. N'aj
 - Un seau de lave
 - Des blocs non inflammables et du verre
 
-## Séparer les deux zones
+## 🧱 Séparer les deux zones
 
 La ferme possède :
 
@@ -31,7 +31,7 @@ La ferme possède :
 
 L'entonnoir sous les adultes alimente le distributeur. Un petit circuit détecte les œufs et active automatiquement le lancer.
 
-## Construire la chambre des poussins
+## 🛠️ Construire la chambre des poussins
 
 1. Placez un coffre et un entonnoir de collecte.
 2. Installez une dalle au-dessus de l'entonnoir.
@@ -43,13 +43,13 @@ L'entonnoir sous les adultes alimente le distributeur. Un petit circuit détecte
 
 Testez la lave avant d'ajouter les animaux. Elle ne doit jamais atteindre l'entonnoir ni le distributeur.
 
-## Construire le circuit d'œufs
+## 🛠️ Construire le circuit d'œufs
 
 Placez les poules adultes sur un entonnoir relié au distributeur. Utilisez un comparateur pour détecter son contenu et une petite horloge pour lancer chaque œuf.
 
 Ajoutez les adultes progressivement. Une dizaine de poules suffit généralement à alimenter un petit module.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Les poussins brûlent immédiatement
 
@@ -63,11 +63,13 @@ Contrôlez le comparateur, l'orientation du distributeur et la boucle d'impulsio
 
 L'entonnoir de sortie peut être bloqué par un signal de redstone ou mal orienté.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à poulets cuits fournit nourriture et plumes dans très peu d'espace. Limitez le nombre de poules et rendez la lave inaccessible depuis le couloir.
 
 Associez-la à une [ferme à vaches compacte](/docs/tutoriels-minecraft/ferme-vaches-skyblock) ou consultez tous les [tutoriels Skyblock](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le stockage compact de l’île](/docs/tutoriels-minecraft/stockage-compact-skyblock).
 
 ## 🌍 Rejoindre Valane
 

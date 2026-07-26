@@ -1,4 +1,5 @@
 ---
+description: "Découvrez les phases d'île de Valane, les blocs, créatures et ressources disponibles à chaque étape de votre progression OneBlock."
 sidebar_position: 15
 ---
 

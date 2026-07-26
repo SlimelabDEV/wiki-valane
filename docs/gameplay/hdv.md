@@ -1,4 +1,5 @@
 ---
+description: "Découvrez l'hôtel des ventes de Valane pour acheter, mettre en vente, rechercher et récupérer des objets entre joueurs."
 sidebar_position: 9
 ---
 

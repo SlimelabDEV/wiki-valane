@@ -1,40 +1,78 @@
 ---
-title: Tutoriels Minecraft Skyblock et fermes compactes
-description: Découvrez des tutoriels Minecraft Skyblock pour débuter, produire des ressources et construire des fermes compactes sur une petite île.
+title: 🏝️ Tutoriels Minecraft Skyblock et fermes compactes
+description: "Découvrez 32 tutoriels Minecraft Skyblock sur les générateurs, cultures compactes, villageois, sécurité du vide et progression."
 slug: /tutoriels-minecraft
 sidebar_position: 1
 ---
 
-# Tutoriels Minecraft Skyblock et fermes compactes
+# 🏝️ Tutoriels Minecraft Skyblock et fermes compactes
 
-Cette rubrique réunit des guides généraux pour progresser en **Skyblock** et construire des fermes peu encombrantes. L'objectif est de produire les ressources essentielles tout en économisant les blocs, l'espace et les entités.
+Cette bibliothèque regroupe des guides conçus pour les contraintes du **Skyblock Minecraft** : peu de blocs, des ressources uniques et le vide autour de chaque chantier.
 
-Les tutoriels décrivent les mécaniques courantes de Minecraft Java Edition. Ils restent séparés des pages propres à Valane : les générateurs, limites d'île, spawners ou recettes disponibles sur un serveur peuvent fonctionner différemment.
+Les pages restent séparées des systèmes propres à Valane afin de ne pas mélanger les mécaniques générales de Minecraft avec les fonctionnalités du serveur.
 
-## Commencer et produire les premiers blocs
+## 🏝️ Débuter, sécuriser et agrandir l’île
 
-- [Bien débuter sur une île Skyblock](/docs/tutoriels-minecraft/debuter-skyblock)
-- [Construire un générateur de cobblestone sûr](/docs/tutoriels-minecraft/generateur-cobblestone-skyblock)
-- [Créer une ferme à arbres adaptée au Skyblock](/docs/tutoriels-minecraft/ferme-arbres-skyblock)
+Ces guides protègent les ressources uniques, le joueur et les premières plateformes avant les projets plus coûteux.
 
-## Fermes compactes
+- [Bien débuter en Skyblock](/docs/tutoriels-minecraft/debuter-skyblock)
+- [Construire un générateur de cobblestone](/docs/tutoriels-minecraft/generateur-cobblestone-skyblock)
+- [Construire un générateur de pierre](/docs/tutoriels-minecraft/generateur-pierre-skyblock)
+- [Créer une source d’eau infinie](/docs/tutoriels-minecraft/source-eau-infinie-skyblock)
+- [Produire de la lave renouvelable](/docs/tutoriels-minecraft/ferme-lave-skyblock)
+- [Installer une chute d’eau de sécurité](/docs/tutoriels-minecraft/chute-eau-securite-skyblock)
+- [Construire un portail du Nether](/docs/tutoriels-minecraft/portail-nether-skyblock)
+- [Faire de l’obsidienne sans perdre sa lave](/docs/tutoriels-minecraft/obsidienne-sans-perdre-lave)
+- [Organiser un stockage compact](/docs/tutoriels-minecraft/stockage-compact-skyblock)
+- [Empêcher les apparitions sur l’île](/docs/tutoriels-minecraft/securiser-ile-apparitions)
+- [Agrandir l’île sans tomber](/docs/tutoriels-minecraft/agrandir-ile-sans-tomber)
+- [Choisir le bon ordre de fermes](/docs/tutoriels-minecraft/ordre-fermes-skyblock)
 
-- [Construire une ferme à monstres sans spawner](/docs/tutoriels-minecraft/ferme-monstres-skyblock)
-- [Automatiser une ferme à poulets cuits](/docs/tutoriels-minecraft/ferme-poulets-automatique)
-- [Créer une ferme à canne à sucre compacte](/docs/tutoriels-minecraft/ferme-canne-a-sucre-skyblock)
-- [Créer une ferme à cactus compacte](/docs/tutoriels-minecraft/ferme-cactus-skyblock)
-- [Organiser une ferme à vaches compacte](/docs/tutoriels-minecraft/ferme-vaches-skyblock)
+## 🌱 Cultures et fermes compactes
 
-## Construire dans le bon ordre
+Des modules réduits produisent nourriture, bois, combustible et matériaux sans gaspiller la surface de l’île.
 
-Sécurisez d'abord l'île, le générateur de blocs et les arbres. Ajoutez ensuite la nourriture, puis une ferme à monstres lorsque vous disposez d'assez de matériaux pour créer une plateforme sombre éloignée.
+- [Construire une ferme à arbres](/docs/tutoriels-minecraft/ferme-arbres-skyblock)
+- [Construire une ferme à cactus](/docs/tutoriels-minecraft/ferme-cactus-skyblock)
+- [Automatiser la canne à sucre](/docs/tutoriels-minecraft/ferme-canne-a-sucre-skyblock)
+- [Créer une ferme à blé](/docs/tutoriels-minecraft/ferme-ble-skyblock)
+- [Cultiver carottes et pommes de terre](/docs/tutoriels-minecraft/ferme-carottes-pommes-de-terre-skyblock)
+- [Automatiser citrouilles et pastèques](/docs/tutoriels-minecraft/ferme-citrouilles-pasteques-skyblock)
+- [Automatiser le bambou](/docs/tutoriels-minecraft/ferme-bambou-skyblock)
+- [Créer une ferme à algues](/docs/tutoriels-minecraft/ferme-algues-skyblock)
+- [Cultiver des champignons](/docs/tutoriels-minecraft/ferme-champignons-skyblock)
+- [Sécuriser une ferme à miel](/docs/tutoriels-minecraft/ferme-miel-skyblock)
+- [Automatiser la laine](/docs/tutoriels-minecraft/ferme-laine-skyblock)
+- [Produire de la poudre d’os](/docs/tutoriels-minecraft/ferme-poudre-os-skyblock)
+- [Automatiser un fourneau](/docs/tutoriels-minecraft/fourneau-automatique-skyblock)
 
-Gardez les machines dans des zones distinctes et prévoyez des coffres tampons. Une ferme compacte doit rester accessible : dans le vide, réparer un entonnoir caché sous plusieurs couches devient vite risqué.
+## 🐾 Animaux et villageois
+
+Ces pages conservent les reproducteurs et habitants dans des cellules fermées, loin du vide et des mécanismes dangereux.
+
+- [Automatiser une ferme à poulets](/docs/tutoriels-minecraft/ferme-poulets-automatique)
+- [Construire une ferme à vaches](/docs/tutoriels-minecraft/ferme-vaches-skyblock)
+- [Créer un élevage de villageois](/docs/tutoriels-minecraft/elevage-villageois-skyblock)
+- [Construire une ferme à fer](/docs/tutoriels-minecraft/ferme-fer-skyblock)
+- [Organiser un hall de commerce](/docs/tutoriels-minecraft/hall-commerce-villageois-skyblock)
+
+## 👾 Ressources hostiles
+
+Les plateformes hostiles sont isolées de la zone de vie afin de produire des objets sans mettre le stockage et les animaux en danger.
+
+- [Construire une ferme à monstres](/docs/tutoriels-minecraft/ferme-monstres-skyblock)
+- [Construire une ferme à slimes sous l’île](/docs/tutoriels-minecraft/ferme-slimes-skyblock)
+
+## 🧭 Bien utiliser ces tutoriels
+
+Sécurisez d’abord l’eau, la lave, les pousses et le stockage. Construisez ensuite les fermes selon les ressources qui bloquent réellement votre progression, avec un double sol sous chaque mécanisme important.
+
+Chaque guide décrit le fonctionnement général de **Minecraft Java Edition**. Les limites d’entités, distances d’activation ou protections peuvent être adaptées par le serveur : commencez toujours par un petit module et mesurez son comportement avant de l’agrandir.
 
 ## 🌍 Rejoindre Valane
 
-Vous cherchez un serveur Minecraft francophone pour poursuivre votre aventure ? Rejoignez **Valane** et profitez d'une économie entre joueurs, de métiers, de compétences, de quêtes, de donjons, de grades et de nombreuses activités multijoueur.
+Vous cherchez un serveur Minecraft francophone pour mettre ces constructions en pratique ? Rejoignez **Valane** et découvrez une aventure Skyblock évolutive, une économie entre joueurs, des quêtes, des grades et de nombreux objectifs de progression.
 
 **Adresse du serveur :** `go.valane.fr`
 
-Pour les informations exactes sur les îles, phases, générateurs et autres systèmes du serveur, consultez le [wiki officiel de Valane](/docs/bienvenue).
+Pour les commandes et fonctionnalités propres au serveur, consultez le [wiki officiel de Valane](/docs/bienvenue).

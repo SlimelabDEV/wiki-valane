@@ -1,4 +1,5 @@
 ---
+description: "Découvrez les générateurs de blocs de Valane, leurs ressources, les prestiges nécessaires et la commande permettant de les sélectionner."
 sidebar_position: 14
 ---
 

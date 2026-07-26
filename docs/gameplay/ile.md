@@ -1,4 +1,5 @@
 ---
+description: "Apprenez à créer, gérer et faire évoluer votre île sur Valane grâce aux commandes de banque, équipe, visite, paramètres et progression."
 sidebar_position: 6
 ---
 

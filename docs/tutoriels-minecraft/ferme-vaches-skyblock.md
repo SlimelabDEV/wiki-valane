@@ -1,16 +1,16 @@
 ---
-title: Ferme à vaches compacte pour Skyblock
+title: 🐄 Ferme à vaches compacte pour Skyblock
 description: Construisez un élevage de vaches compact sur Skyblock pour produire cuir, nourriture et expérience sans encombrer l'île.
 sidebar_position: 9
 ---
 
-# Ferme à vaches compacte pour Skyblock
+# 🐄 Ferme à vaches compacte pour Skyblock
 
 Les vaches fournissent du cuir, du bœuf et un peu d'expérience. Sur une petite île, l'objectif est de conserver au moins deux adultes reproducteurs tout en séparant les nouveaux animaux destinés à la récolte.
 
 Cette ferme reste manuelle pour la reproduction, car les vaches doivent recevoir du blé.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Deux vaches
 - Du blé
@@ -20,7 +20,7 @@ Cette ferme reste manuelle pour la reproduction, car les vaches doivent recevoir
 - Un coffre
 - Une zone d'herbe si vous souhaitez un enclos naturel
 
-## Construire un enclos compact
+## 🛠️ Construire un enclos compact
 
 1. Créez une plateforme fermée et éclairée.
 2. Placez les deux vaches adultes dans une petite cellule.
@@ -31,19 +31,19 @@ Cette ferme reste manuelle pour la reproduction, car les vaches doivent recevoir
 
 Les veaux ont une taille différente des adultes. Une disposition avec trappes et hauteur contrôlée peut les séparer sans laisser sortir les parents.
 
-## Conserver les reproducteurs
+## 🛡️ Conserver les reproducteurs
 
 Ne placez jamais les deux seules vaches dans une chambre de mort automatique. Marquez ou isolez les adultes qui doivent rester en vie.
 
 Attendez la fin du délai de reproduction avant de leur donner à nouveau du blé. Un stock régulier vient d'une petite ferme à blé placée à proximité.
 
-## Gérer les limites d'entités
+## ⚙️ Gérer les limites d'entités
 
 Un grand nombre d'animaux dans un seul bloc peut provoquer des dégâts de collision, du lag ou une suppression liée aux règles du serveur.
 
 Faites des cycles courts et récoltez régulièrement. Une dizaine de vaches bien gérées est plus utile qu'un enclos saturé.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Les veaux ne se séparent pas
 
@@ -57,11 +57,13 @@ Utilisez une ouverture d'un demi-bloc, une trappe ou donnez le blé à travers u
 
 Vous manquez peut-être de blé, le délai n'est pas terminé ou la limite d'animaux de la zone est atteinte.
 
-## À retenir
+## ✅ À retenir
 
 Une ferme à vaches Skyblock doit garantir la survie des reproducteurs et respecter les limites d'entités. L'automatisation complète est moins importante qu'un accès sûr et un cycle régulier.
 
 Revenez au sommaire des [tutoriels Minecraft Skyblock](/docs/tutoriels-minecraft) ou découvrez le [wiki de Valane](/docs/bienvenue).
+
+Pour aller plus loin, consultez aussi [la ferme à blé Skyblock](/docs/tutoriels-minecraft/ferme-ble-skyblock).
 
 ## 🌍 Rejoindre Valane
 
