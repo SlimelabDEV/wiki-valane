@@ -91,9 +91,9 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **#inv** : Affiche ton inventaire.
 - **#item** : Affiche l'objet dans ta main.
 - **#ec** : Affiche ton enderchest.
-- **#pos** : Affiche ta position.
 - **#bal** : Affiche ton argent.
-- **#skill** : Affiche tes compétences.
+- **#sk** : Affiche tes compétences.
+- **#c** : Affiche ton solde de couronnes.
 
 ---
 
@@ -108,12 +108,18 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/maison status** : Affiche le nombre total de maisons chargées.
 
 ---
+
 ## Commandes de débug 🪲
-- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels et plus encore.
+- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels, des runes protectrices et plus encore.
 
 :::tip 💡
 La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
 :::
+
+---
+
+## Commande du compte Premium ⭐
+- **/premium** : Affiche les informations liées au compte Premium actif.
 
 ---
 
