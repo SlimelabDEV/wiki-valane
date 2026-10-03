@@ -28,6 +28,7 @@ Si tu découvres le serveur, commence ici :
 
 Pour bien profiter de Valane, pense aussi à consulter :
 
+- 📚 [**Dex**](/docs/gameplay/dex) : collectionner tes souvenirs et échanger tes doubles.
 - 🌍 [**Îles**](/docs/gameplay/ile) : créer et développer ton île.
 - 🍀 [**Phases**](/docs/gameplay/phases) : débloquer de nouvelles étapes.
 - ⛏️ [**Générateurs**](/docs/gameplay/generateurs) : améliorer ta production.

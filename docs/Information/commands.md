@@ -23,6 +23,8 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/niveau** : Permet de voir vos statistiques.
 - **/ec** : Ouvre votre enderchest.
 - **/quete ou /q** : Ouvre le menu des quêtes.
+- **/dex** : Ouvre votre album de [souvenirs et collections](/docs/gameplay/dex).
+- **/dex \<pseudo\>** : Permet de consulter les collections d'un autre joueur.
 - **/profil** : Ouvre le menu profil et options.
 - **/option ou /options** : Ouvre le menu des options directement.
 - **/kit** : Ouvre le menu des kits.
