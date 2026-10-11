@@ -17,7 +17,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/buy** : Ouvre le menu achat de gems.
 - **/buy \<pseudo\>** : Ouvre le menu d'achat de gems pour les offrir au joueur souhaité.
 - **/b** : Souhaite la bienvenue à un nouveau joueur lors de sa première connexion au serveur avec un message prédéfini aléatoire.
-- **/skill ou /sk** : Ouvre le menu compétences et salaires.
+- **/skill, /skills ou /sk** : Ouvre le menu des [compétences](/docs/gameplay/skills).
 - **/skill top** : Ouvre le menu des classements des compétences.
 - **/liens** : Affiche les liens vers nos sites.
 - **/niveau** : Permet de voir vos statistiques.
@@ -43,7 +43,7 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **/baltop** : Top des joueurs les plus riches.
 - **/pay &lt;pseudo&gt;** : Envoyer de l'argent à un joueur.
 - **/money &lt;pseudo&gt;** : Permet de voir l'argent d'un joueur.
-- **/salaire** : Ouvre la liste des salaires.
+- **/job ou /jobs** : Ouvre le menu des [métiers et salaires](/docs/gameplay/jobs).
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
 - **/shop** : Ouvrir le shop admin
 - **/ah** : Ouvrir l'hôtel des ventes.
