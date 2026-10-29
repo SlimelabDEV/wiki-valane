@@ -99,7 +99,40 @@ Voici la liste complète des commandes disponibles sur le serveur Valane. Ces co
 - **#ec** : Affiche ton enderchest.
 - **#bal** : Affiche ton argent.
 - **#sk** : Affiche tes compétences.
+- **#guild** : Affiche le nom de ta guilde.
+- **#gbank** : Affiche l'argent disponible dans la banque de ta guilde.
 - **#c** : Affiche ton solde de couronnes.
+
+---
+
+## Commandes Guildes 🛡️
+Tous les détails sont sur la page [Guildes](/docs/gameplay/guilde).
+
+- **/g** : Ouvre le menu de votre guilde.
+- **/g create &lt;nom&gt; [préfixe]** : Fonde une guilde pour 1 000 000 $.
+- **/g confirm** ou **/g cancel** : Confirme ou annule l'action en attente.
+- **/g invite &lt;joueur&gt;** : Invite un joueur dans votre guilde.
+- **/g uninvite &lt;joueur&gt;** : Retire une invitation.
+- **/g accept &lt;guilde&gt;** ou **/g decline &lt;guilde&gt;** : Accepte ou refuse une invitation.
+- **/g leave** : Quitte votre guilde.
+- **/g promote &lt;joueur&gt;** ou **/g demote &lt;joueur&gt;** : Change le rôle d'un membre.
+- **/g boot &lt;joueur&gt;** : Expulse un membre.
+- **/g transfer &lt;joueur&gt;** : Cède la direction de la guilde.
+- **/g rename &lt;nom&gt;** : Renomme la guilde.
+- **/g prefix &lt;préfixe&gt;** : Change le préfixe de la guilde.
+- **/g status** : Rend la guilde publique ou privée.
+- **/g upgrade** : Débloque le palier suivant.
+- **/g bank balance** : Affiche l'argent de la banque de guilde.
+- **/g bank deposit &lt;montant&gt;** : Dépose de l'argent dans la banque de guilde.
+- **/g bank withdraw &lt;montant&gt;** : Retire de l'argent de la banque de guilde.
+- **/g vault [page]** : Ouvre le coffre de guilde.
+- **/g sethome**, **/g home** ou **/g delhome** : Place, rejoint ou supprime le home de guilde.
+- **/g ally add|accept|decline|remove|list [guilde]** : Gère les alliances.
+- **/g gc [message]** : Parle dans le chat de guilde, ou y bascule.
+- **/g ac [message]** : Parle dans le chat d'alliance, ou y bascule.
+- **/g list** : Ouvre le classement des guildes.
+- **/g info &lt;guilde&gt;** : Affiche la fiche d'une guilde.
+- **/g delete** : Dissout la guilde.
 
 ---
 
